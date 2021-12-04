@@ -38,7 +38,7 @@ Zahlenraten
 Programmablauf
 --------------
 
-.. figure:: assets/Programmablauf_Zahlenraten.png
+.. figure:: ../assets/Programmablauf_Zahlenraten.png
     :name: Programmablauf_Zahlenraten
     :alt:  Programmablauf_Zahlenraten
     :align: center
@@ -58,7 +58,7 @@ Mit Hilfe einer Verzweigung wird überprüft, ob die eingegebene Zahl zu groß, 
 Snake-Spiel
 ===========
 
-.. figure:: assets/snake.png
+.. figure:: ../assets/snake.png
     :name: Bild_Snake_Spiel
     :alt:  Bild_Snake_Spiel
     :align: center
@@ -73,7 +73,7 @@ Spiel ist verloren, wenn Schlange mit Fensterrand oder sich selbst kollidiert
 Programmablauf
 --------------
 
-.. figure:: assets/spielablauf.png
+.. figure:: ../assets/spielablauf.png
     :name: Programmablauf_Snake
     :alt:  Programmablauf_Snake
     :align: center
