@@ -8,7 +8,7 @@ Verzweigungen
 Dadurch werden gewisse Programmzeilen nur unter bestimmten Bedingungen ausgeführt
 Bedingungen können Vergleiche und Boolsche Aussagenlogik enthalten
 
-.. code-block:: console
+.. code-block:: python
    if Bedingung:
       Aktion1
    else:
@@ -17,7 +17,7 @@ Bedingungen können Vergleiche und Boolsche Aussagenlogik enthalten
 Aktion1 wird ausgeführt, wenn die Bedingung wahr ist
 Aktion2 wird ausgeführt, wenn die Bedingung falsch ist
 
-.. code-block:: console
+.. code-block:: python
    if Bedingung1:
        Aktion1.1
        Aktion1.2
@@ -68,7 +68,7 @@ For-Schleifen
 
 Laufen für jedes Element variable der übergebenen Aufzählung die Schleife einmal durch
 
-.. code-block:: console
+.. code-block:: python
     for variable in aufzaehlung:
       Aktion1
       Aktion2
@@ -86,7 +86,7 @@ While-Schleifen
 
 Wiederholen Aktionen so lange, wie die übergebene Bedingung erfüllt ist
 
-.. code-block:: console
+.. code-block:: python
     while bedingung:
       Aktion1
       Aktion2

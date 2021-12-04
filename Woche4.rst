@@ -20,7 +20,7 @@ Eingabe
 Fehlerbehandlung
 ================
 
-.. code-block:: console
+.. code-block:: python
    try:
      # Anweisungen
    except fehlerart:

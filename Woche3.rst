@@ -18,7 +18,7 @@ Funktionen ohne Parametern
 Funktionsdefinition
 -------------------
 
-.. code-block:: console
+.. code-block:: python
    def funktions_name():
        # Anweisungen
 
@@ -28,7 +28,7 @@ Reine Definition, es wird nichts ausgeführt
 Funktionsaufruf
 ---------------
 
-.. code-block:: console
+.. code-block:: python
    funktions_name()
 
 Durch den Funktionsaufruf wird eine Funktion ausgeführt
@@ -45,7 +45,7 @@ von return rueckgabewert beendet.
 Funktionen mit Parametern
 -------------------------
 
-.. code-block:: console
+.. code-block:: python
    def funktions_name(aufgelistete_parameter):
        # Anweisungen
 

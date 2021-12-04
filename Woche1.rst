@@ -26,12 +26,12 @@ Dienen dazu, komplizierte Textstellen zu erklären, sodass diese verständlicher
 
 Einzeilige Kommentare beginnen mit einem Hashtag (#) und gehen bis zum Ende der Zeile
 
-.. code-block:: console
+.. code-block:: python
     # Das ist ein einzeiliger Kommentar 
 
 Mehrzeilige Kommentare beginnen und enden mit drei Anführungszeichen derselben Art (""" oder ''')
 
-.. code-block:: console
+.. code-block:: python
     """ Das ein 
         mehrzeiliger Kommentar """
 
@@ -52,7 +52,7 @@ Verwendung von Variablen
 
 Variable wird mit dem Gleichheitszeichen (=) ein Wert zugewiesen, der sich später noch ändern kann
 
-.. code-block:: console
+.. code-block:: python
     kleidung = "T-Shirt"
 
 Wert einer Variable kann verwenden werden, indem man an die Stelle, 
@@ -94,7 +94,7 @@ Durch geschweifte Klammern im F-String dargestellt, in der Variablenname steht
 
 Beispiel, das "Stella singt gerne." ausgibt:
 
-.. code-block:: console
+.. code-block:: python
    person = "Stella"	
    satz = f"{person} singt gerne."	
    print(satz)	
