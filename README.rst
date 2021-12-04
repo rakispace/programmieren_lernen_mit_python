@@ -2,10 +2,8 @@
 Inhaltsverzeichnis
 ==================
 
-Contents:
-
-.. toctree::
-    :maxdepth: 2
+.. contents:: Overview
+   :depth: 2
 
     Woche1.rst
     Woche2.rst
