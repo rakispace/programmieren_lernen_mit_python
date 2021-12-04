@@ -2,10 +2,10 @@
 Inhaltsverzeichnis
 ==================
 
-.. contents:: Overview
+.. toctree::
    :depth: 2
 
-    Woche1.rst
-    Woche2.rst
-    Woche3.rst
-    Woche4.rst
+    Woche1
+    Woche2
+    Woche3
+    Woche4
